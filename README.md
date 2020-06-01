@@ -1,2 +1,3 @@
 # vishnu-project
 https://github.com/Bhumireddyhari/guru.git
+/equation starts .../equation ends/...
